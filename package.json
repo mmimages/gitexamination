@@ -1,0 +1,27 @@
+{
+  "name": "gitexamination",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mmimages/gitexamination#readme",
+  "description": "Examination format using Git and Markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmimages/gitexamination.git"
+  },
+  "bin": {
+    "gitexam": "./bin/gitexamination"
+  },
+  "keywords": [
+    "git",
+    "examination",
+    "gitexamination"
+  ],
+  "author": "mmimages",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mmimages/gitexamination/issues"
+  }
+}
